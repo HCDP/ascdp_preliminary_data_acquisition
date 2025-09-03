@@ -1,4 +1,4 @@
-FROM ghcr.io/hcdp/task-preliminary-acquisition-base:latest
+FROM ghcr.io/hcdp/task-ascdp-preliminary-acquisition-base:latest
 
 # Add the mesonet code
 ADD /code/hi_mesonet /workspace/code/hi_mesonet
